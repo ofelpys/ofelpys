@@ -2,7 +2,9 @@
 
 <div align="center">
   - 📚 Sistemas Da Informação (7/8)<br>
-  - 🌱 Estudando Java
+  - ⏳ Estudando Estruturas Lineares<br>
+  - ⏳ Estudando Paradigmas De Orientação a Objetos<br>
+  - ⏳ Estudando Java
 </div>
 
  ##
@@ -24,7 +26,7 @@
  ##
 
  <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ofelpys&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ofelpys&theme=rust-ferris-dark&border_radius=9&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
 </div>
 
  ##
