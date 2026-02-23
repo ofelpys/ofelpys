@@ -1,4 +1,4 @@
-## Olá, Seja Bem Vindos Ao Meu GitHub! 👋
+## Olá, Seja Bem Vindo Ao Meu GitHub! 👋
 
 <div align="center">
   - 📚 Sistemas Da Informação (7/8)<br>
